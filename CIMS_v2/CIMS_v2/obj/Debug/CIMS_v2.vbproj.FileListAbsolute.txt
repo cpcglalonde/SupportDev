@@ -1,0 +1,32 @@
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.exe.config
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.exe
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.pdb
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.xml
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.About.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.CIMS.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.Login.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.Resources.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.vbproj.GenerateResource.Cache
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.exe
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.xml
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.pdb
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.exe.config
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.exe
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.pdb
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\CIMS Account Simplifier.xml
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.FileSystemTask.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\System.Data.Entity.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.About.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.CIMS.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.Login.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.Resources.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS_v2.vbproj.GenerateResource.Cache
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.exe
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.xml
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Debug\CIMS Account Simplifier.pdb

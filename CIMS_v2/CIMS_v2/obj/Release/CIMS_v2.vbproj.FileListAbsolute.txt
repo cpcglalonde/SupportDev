@@ -1,0 +1,37 @@
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS_v2.exe.config
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS_v2.exe
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS_v2.pdb
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS_v2.xml
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS_3.exe.config
+\\ibmfileserver.conservative.ca\private\greglalonde\visual studio 2013\Projects\CIMS_v2\CIMS_v2\bin\Release\CIMS Account Simplifier.exe.config
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.About.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.CIMS.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Login.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Resources.resources
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbproj.GenerateResource.Cache
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.exe
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.xml
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.pdb
+\\ibmfileserver.conservative.ca\private\greglalonde\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbprojResolveAssemblyReference.cache
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.About.resources
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.CIMS.resources
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Login.resources
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Resources.resources
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbproj.GenerateResource.Cache
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.exe
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.xml
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.pdb
+I:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.About.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Login.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.Resources.resources
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbproj.GenerateResource.Cache
+D:\CIMS Account Simplifier.exe.config
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.exe
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.xml
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS Account Simplifier.pdb
+D:\CIMS Account Simplifier.exe
+D:\CIMS Account Simplifier.pdb
+D:\CIMS Account Simplifier.xml
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.vbprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\CIMS_v2\CIMS_v2\obj\Release\CIMS_v2.lblWorkingFor.resources

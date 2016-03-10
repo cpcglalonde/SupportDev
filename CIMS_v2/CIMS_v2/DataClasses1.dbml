@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Awesome" Class="DataSQL" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CPCMSOVTS8;Initial Catalog=Awesome;Integrated Security=True" SettingsObjectName="CIMS_v2.My.MySettings" SettingsPropertyName="AwesomeConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="OwnerOrgID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(30) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="ext" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Active" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Notes" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="SecurityLevel" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="ScopeLevel" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="CashBoxNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RidingNo" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="RidingNoMPBoundaries" Type="System.String" DbType="Char(5)" CanBeNull="true" />
+      <Column Name="PreferredLanguageID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ExportToFilePermitted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="UseMPBoundaries" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="LastModified" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="Created" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

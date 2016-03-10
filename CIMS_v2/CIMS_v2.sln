@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CIMS_v2", "CIMS_v2\CIMS_v2.vbproj", "{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F73AAF26-ABDA-4B74-B638-57645AA64A75}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.vb = Class1.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E2A135-F5B4-44C0-9BDC-6F787AD5F423}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
